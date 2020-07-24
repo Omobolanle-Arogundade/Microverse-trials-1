@@ -1,0 +1,19 @@
+body {
+  scroll-behavior: smooth;
+}
+
+#welcome-section .jumbotron {
+  height: 100vh;
+}
+
+.jumbotron {
+  background-image: url("https://daznocode.com/wp-content/uploads/2019/11/Portfolio.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#profile-link {
+  position: absolute;
+  bottom: 20px;
+  left: 45%;
+}
